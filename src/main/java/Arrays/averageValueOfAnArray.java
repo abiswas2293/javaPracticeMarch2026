@@ -1,4 +1,4 @@
-package Arrayas;
+package Arrays;
 
 public class averageValueOfAnArray {
     public static void main(String args[]){
