@@ -7,7 +7,7 @@ public class castingIncompatiableType {
 
         a=(int) d;//converting double d to int
 
-        System.out.println(a);
+        System.out.println(a);//1
 
 
     }
