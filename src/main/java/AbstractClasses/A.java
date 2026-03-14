@@ -10,5 +10,7 @@ abstract class A {
         System.out.println("This is concrete method");
     }
 
+    int a;
+
 
 }
