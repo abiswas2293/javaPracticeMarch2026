@@ -15,6 +15,7 @@ public class list {
 
         al.add(1,"rto");
         System.out.println(al);
+        System.out.println(al.set(1,"A"));
 
 
         System.out.println(al.contains("abc"));
